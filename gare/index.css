@@ -207,6 +207,14 @@ header .navegation li a{
       bottom: 15px;
       right: 20px;
     }
-h1{
+    h1{
     margin-top: 10%;
-}
+    }
+
+    .sec{
+        min-height: auto; 
+        height: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
